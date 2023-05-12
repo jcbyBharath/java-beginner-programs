@@ -1,4 +1,4 @@
-package main.com.jc;
+package main.com.jc.inclasss;
 
 public interface MyFunction {
 

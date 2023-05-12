@@ -1,4 +1,4 @@
-package main.com.jc;
+package main.com.jc.inclasss;
 
 import main.com.jc.intermediate.MyPredicate;
 
