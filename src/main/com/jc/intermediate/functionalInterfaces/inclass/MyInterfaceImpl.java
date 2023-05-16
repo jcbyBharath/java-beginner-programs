@@ -1,4 +1,4 @@
-package main.com.jc.intermediate.functionalInterfaces;
+package main.com.jc.intermediate.functionalInterfaces.inclass;
 
 public class MyInterfaceImpl implements  MyInterface {
 

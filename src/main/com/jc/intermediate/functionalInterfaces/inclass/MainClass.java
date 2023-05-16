@@ -1,4 +1,4 @@
-package main.com.jc.intermediate.functionalInterfaces;
+package main.com.jc.intermediate.functionalInterfaces.inclass;
 
 import java.util.function.Function;
 import java.util.function.Predicate;
