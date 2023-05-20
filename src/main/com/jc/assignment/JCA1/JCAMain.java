@@ -15,7 +15,11 @@ public class JCAMain {
         File file = new File("C:\\Courses\\Java\\Java-Beginner\\Programs\\java-beginner-programs\\src\\main\\resources\\companies.txt");
         FileReader fi = new FileReader(file);
         BufferedReader br = new BufferedReader(fi);
-        br.lines().forEach(line -> System.out.println(line));
+        //br.lines().forEach(line -> System.out.println(line));
+        String line;
+        while ((line = br.readLine()) != null) {
+            System.out.println(line);
+    }
     }
 
 
